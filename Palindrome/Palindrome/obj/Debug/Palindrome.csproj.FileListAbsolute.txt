@@ -1,0 +1,7 @@
+D:\SEM_3\C#\class_activities\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+D:\SEM_3\C#\class_activities\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+D:\SEM_3\C#\class_activities\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+D:\SEM_3\C#\class_activities\Palindrome\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+D:\SEM_3\C#\class_activities\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+D:\SEM_3\C#\class_activities\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+D:\SEM_3\C#\class_activities\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

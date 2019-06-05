@@ -1,0 +1,10 @@
+D:\SEM_3\C#\class_activities\lec_2\Class_2\bin\Debug\netcoreapp2.1\Class_2.deps.json
+D:\SEM_3\C#\class_activities\lec_2\Class_2\bin\Debug\netcoreapp2.1\Class_2.runtimeconfig.json
+D:\SEM_3\C#\class_activities\lec_2\Class_2\bin\Debug\netcoreapp2.1\Class_2.runtimeconfig.dev.json
+D:\SEM_3\C#\class_activities\lec_2\Class_2\bin\Debug\netcoreapp2.1\Class_2.dll
+D:\SEM_3\C#\class_activities\lec_2\Class_2\bin\Debug\netcoreapp2.1\Class_2.pdb
+D:\SEM_3\C#\class_activities\lec_2\Class_2\obj\Debug\netcoreapp2.1\Class_2.csproj.CoreCompileInputs.cache
+D:\SEM_3\C#\class_activities\lec_2\Class_2\obj\Debug\netcoreapp2.1\Class_2.AssemblyInfoInputs.cache
+D:\SEM_3\C#\class_activities\lec_2\Class_2\obj\Debug\netcoreapp2.1\Class_2.AssemblyInfo.cs
+D:\SEM_3\C#\class_activities\lec_2\Class_2\obj\Debug\netcoreapp2.1\Class_2.dll
+D:\SEM_3\C#\class_activities\lec_2\Class_2\obj\Debug\netcoreapp2.1\Class_2.pdb
